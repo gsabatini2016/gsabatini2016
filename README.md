@@ -1,7 +1,7 @@
 Hi there, my name is Gabriel Sabatini and here are something for know me better 👋
 
 - 🔭 I’m currently working on Telecom Argentina
-- 🌱 I’m currently learning DevOps on the Artificial Intelligence world
+- 🌱 I’m currently learning DevOps applicated to the artificial intelligence world
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: 
 - <ul>
