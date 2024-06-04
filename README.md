@@ -1,7 +1,7 @@
 Hi there, my name is Gabriel Sabatini and here are something for know me better 👋
 
 - 🔭 I’m currently working on Telecom Argentina.
-- 🌱 I’m currently learning MLOps culture.
+- 🌱 I’m currently learning MLOps Culture.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: 
 - <ul>
@@ -10,8 +10,9 @@ Hi there, my name is Gabriel Sabatini and here are something for know me better 
   </ul>
 
 <h3>Skills</h3>
-- ☁  Working with AWS since 2016
-- 🏗 Orchestrating pods with Kubernetes since 2017
-- 💻 Creating Infraestructure as Code with Terraform & Cloudformation since 2016
-
+<ul>
+   <li>☁  Working with AWS & Azure since 2016</li>
+   <li>🏗 Orchestrating pods with Kubernetes since 2017</li>
+   <li>💻 Creating Infraestructure as Code with Terraform & Cloudformation since 2016</li>
+</ul>
 
