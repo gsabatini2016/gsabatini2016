@@ -4,7 +4,7 @@ Hi there, my name is Gabriel Sabatini and here are something for know me better 
 - 🌱 I’m currently learning MLOps Culture.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: 
-- <ul>
+  <ul>
    <li>[Mail] gsabatini2016@gmail.com</li>
    <li>[LinkedIn] https://www.linkedin.com/in/gabrielsabbatini/ - </li>
   </ul>
