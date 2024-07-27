@@ -32,6 +32,6 @@ Hi there, I’m Gabriel Sabatini and here are something for know me better 👋
 
 📫 How to reach me:
 
-- ![imagen](https://github.com/user-attachments/assets/d41dc57b-7ff1-4b19-bd61-fb23e361e9ec) (https://www.linkedin.com/in/gabrielsabbatini)
+- ![imagen](https://github.com/user-attachments/assets/786f76d4-437e-4225-9d1c-89704b93e9c5) (https://www.linkedin.com/in/gabrielsabbatini)
 - gsabatini2016@gmail.com
 
