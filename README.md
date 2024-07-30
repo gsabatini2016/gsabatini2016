@@ -9,21 +9,21 @@ Hi there, I’m Gabriel Sabatini and here are something for know me better 👋
 
  ☁️ &nbsp; Working with different cloud computing providers:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean)](https://skillicons.dev)  
+[![Containerization](https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean)](https://skillicons.dev)  
 
 🏗️ &nbsp; Orchestrating pods with Kubernetes since 2017:
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev)  
+[![IaC](https://skillicons.dev/icons?i=kubernetes,docker)](https://skillicons.dev)  
 
  💻 &nbsp; Developing IaC with Terraform & Cloudformation since 2016:
 
-[![My Skills](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) 
+[![cicd](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) 
 
 🚀 &nbsp; Deploying code to production since 2015:
 
 [![My Skills](https://skillicons.dev/icons?i=gitlab,github,jenkins)](https://skillicons.dev)
 
-## Other Common Github Profile Sections
+## More About Me...
 👩‍💻 I'm currently working on Telecom Argentina
 
 🧠 I'm currently learning about MLOPS
