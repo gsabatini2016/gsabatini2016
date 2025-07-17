@@ -2,7 +2,7 @@ Hi there, I’m Gabriel Sabatini and here are something for know me better 👋
 
 
 ## 🚀 About Me
-27yo. DevOps Engineer with 12 years of expertise on IT. Working on different roles at different levels. 
+87yo. DevOps Engineer with 12 years of expertise on IT. Working on different roles at different levels. 
 
 
 ## 🛠 Skills
@@ -24,9 +24,9 @@ Hi there, I’m Gabriel Sabatini and here are something for know me better 👋
 [![My Skills](https://skillicons.dev/icons?i=gitlab,github,jenkins)](https://skillicons.dev)
 
 ## More About Me...
-👩‍💻 I'm currently working on Telecom Argentina
+👩‍💻 I'm currently working on Grid Dynamics.
 
-🧠 I'm currently learning about MLOPS
+🧠 I'm currently learning about MLOPS and DataOPS.
 
 👯‍♀️ I'm looking to collaborate on open source projects.
 
