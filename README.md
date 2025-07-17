@@ -2,7 +2,7 @@ Hi there, I’m Gabriel Sabatini and here are something for know me better 👋
 
 
 ## 🚀 About Me
-87yo. DevOps Engineer with 12 years of expertise on IT. Working on different roles at different levels. 
+28yo. DevOps Engineer with 12 years of expertise on IT. Working on different roles at different levels. 
 
 
 ## 🛠 Skills
